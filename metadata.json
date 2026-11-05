@@ -1,0 +1,6 @@
+{
+  "name": "Не дивись у землю",
+  "description": "Психологічний 2D інді-хорор з боковим скролом, багатошаровим паралаксом та процедурним звуком Web Audio API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
